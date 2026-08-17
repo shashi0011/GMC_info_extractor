@@ -77,7 +77,7 @@ GMC_Extractor_new-master/
 **Install**
 
 ```bash
-git clone <this-repository-url>
+git clone https://github.com/shashi0011/GMC_info_extractor
 cd GMC_Extractor_new-master
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
