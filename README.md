@@ -1,9 +1,9 @@
 
 # GMC Policy Information Extractor
 
-This project was built as a technical assignment for the AI/LLM Engineering Intern (Document Intelligence) role. The goal of the assignment was to build a system that can read Group Medical Cover (GMC) insurance policy documents from different insurance companies and pull out the important information into a clean, structured JSON file.
+The goal of the assignment was to build a system that can read Group Medical Cover (GMC) insurance policy documents from different insurance companies and pull out the important information into a clean, structured JSON file.
 
-This repository contains the full working solution, along with the sample outputs generated from the sample policy PDFs that were shared with the assignment.
+This repository contains the full working solution, along with the sample outputs generated from the sample policy PDFs.
 
 ## 1. Project Overview
 
