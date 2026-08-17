@@ -1,0 +1,8 @@
+openai
+pydantic
+pdfplumber
+pytesseract
+Pillow
+numpy
+python-dotenv
+pytest

@@ -1,0 +1,275 @@
+{
+  "source_file": "group-mediclaim-insurance-pw.pdf",
+  "insurer": {
+    "insurer_name": {
+      "status": "found",
+      "value": "HDFC ERGO General Insurance Company Limited",
+      "source_page": 1
+    },
+    "tpa_name": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "is_gmc_policy": {
+      "status": "found",
+      "value": "Yes (Group Mediclaim Insurance)",
+      "source_page": 1
+    }
+  },
+  "previous_policy": {
+    "inception_date": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "renewal_date": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "policy_tenure": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "inception_premium": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    }
+  },
+  "policy_structure": {
+    "family_structure": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "sum_insured_tiers": []
+  },
+  "demographics": {
+    "total_employees": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "total_spouses": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "total_children": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "total_parents": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "total_lives_covered": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    }
+  },
+  "room_rent_hospitalization": {
+    "room_rent_percentage": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "room_rent_max_limit": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "icu_percentage": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "icu_max_limit": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "pre_hospitalization_days": {
+      "status": "found",
+      "value": "30 days",
+      "source_page": 17
+    },
+    "post_hospitalization_days": {
+      "status": "found",
+      "value": "60 days",
+      "source_page": 17
+    }
+  },
+  "maternity": {
+    "nine_month_waiting_period": {
+      "status": "found",
+      "value": "36 months waiting period under Maternity Cover",
+      "source_page": 32
+    },
+    "baby_day_one_cover": {
+      "status": "found",
+      "value": "Covered up to the Base Sum Insured (under optional cover Baby Cover from Day 1)",
+      "source_page": 24
+    },
+    "vaccination_coverage": {
+      "status": "found",
+      "value": "Excluded (Except post Animal bite treatment)",
+      "source_page": 35
+    },
+    "normal_delivery_metro": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "normal_delivery_non_metro": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "c_section_metro": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "c_section_non_metro": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    }
+  },
+  "waiting_periods": {
+    "thirty_day_waiting_period": {
+      "status": "found",
+      "value": "30 days (except claims arising due to an Accident)",
+      "source_page": 32
+    },
+    "first_second_year_waiting_period": {
+      "status": "found",
+      "value": "12 months for listed conditions/surgeries/treatments",
+      "source_page": 31
+    },
+    "pre_existing_disease_waiting_period": {
+      "status": "found",
+      "value": "36 months",
+      "source_page": 30
+    }
+  },
+  "other_benefits": {
+    "day_care_expenses": {
+      "status": "found",
+      "value": "Covered for Medical Expenses on Hospitalization of Insured Person in Hospital or Day Care Centre for Day Care Treatment",
+      "source_page": 18
+    },
+    "opd_benefit": {
+      "status": "found",
+      "value": "Excluded by default under Section C.III.xiii (Covered under optional OPD Cover up to limits specified in Schedule of Coverage)",
+      "source_page": 30
+    },
+    "teleconsultation": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "pharmacy_discount": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "domiciliary_hospitalization": {
+      "status": "found",
+      "value": "Covered for Medical Expenses incurred on Domiciliary Hospitalization prescribed by treating Medical Practitioner",
+      "source_page": 17
+    },
+    "annual_health_checkup": {
+      "status": "found",
+      "value": "Covered under optional cover Preventive Health Check Up up to the limit mentioned on the Schedule of Coverage",
+      "source_page": 20
+    },
+    "modern_treatment": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "bariatric_treatment": {
+      "status": "found",
+      "value": "Excluded (Obesity/Weight control) unless fulfilling specific medical criteria (advice of doctor, supported by clinical protocols, age 18+, BMI >= 40 or >= 35 with severe co-morbidities)",
+      "source_page": 33
+    },
+    "psychiatric_treatment": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "ayush_treatment": {
+      "status": "found",
+      "value": "Covered by default for In-patient care expenses up to Sum Insured of Section B.I (Hospitalization Expenses) in an AYUSH Hospital for Ayurvedic, Unani, Siddha, Homeopathy, Yoga & Naturopathy",
+      "source_page": 20
+    },
+    "lgbtq_coverage": {
+      "status": "found",
+      "value": "Excluded (Change-of-Gender treatments: Expenses related to any treatment, including surgical management, to change characteristics of the body to those of the opposite sex are excluded)",
+      "source_page": 33
+    },
+    "live_in_partner_coverage": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "organ_donor_expenses": {
+      "status": "found",
+      "value": "Covered towards organ donor's Hospitalization for harvesting of the donated organ where Insured Person is the recipient (Donor Pre- and Post-Hospitalization are excluded)",
+      "source_page": 17
+    }
+  },
+  "infertility_ambulance": {
+    "infertility_treatment": {
+      "status": "found",
+      "value": "Excluded by default under Section C.II.xiv (Covered under optional Infertility Cover up to the limit mentioned in Schedule of Coverage)",
+      "source_page": 24
+    },
+    "surrogacy": {
+      "status": "found",
+      "value": "Excluded (Gestational Surrogacy / surrogate or vicarious pregnancy)",
+      "source_page": 34
+    },
+    "ambulance_charges": {
+      "status": "found",
+      "value": "Covered for expenses incurred on Road Ambulance Services for emergency transfer to nearest Hospital, hospital to hospital, or hospital to home within same city",
+      "source_page": 18
+    },
+    "air_ambulance_charges": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    }
+  },
+  "buffer_waiver": {
+    "corporate_buffer_limit": {
+      "status": "found",
+      "value": "Available as optional cover up to limits and terms specified in Policy Schedule/Certificate of Insurance",
+      "source_page": 29
+    },
+    "disease_wise_capping": {
+      "status": "found",
+      "value": "Available as optional cover: Claims for specified Illnesses will be admissible up to maximum of Sub-limits mentioned in Schedule of Coverage",
+      "source_page": 30
+    },
+    "waiver_conditions": {
+      "status": "found",
+      "value": "Optional modifications available to waive/modify: 30-day General Waiting Period (Section B.II.3), Specific Illness Waiting Period (Section B.II.2), and Pre-Existing Disease Waiting Period (Section B.II.1) as specified in Schedule of Coverage",
+      "source_page": 18
+    }
+  },
+  "additional_notable_information": [],
+  "extraction_summary": {
+    "fields_found": 24,
+    "fields_not_found": 24,
+    "total_fields_checked": 48
+  }
+}

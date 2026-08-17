@@ -1,0 +1,277 @@
+{
+  "source_file": "GHI Policy.pdf",
+  "insurer": {
+    "insurer_name": {
+      "status": "found",
+      "value": "Care Health Insurance Limited (Formerly known as Religare Health Insurance Company Limited)",
+      "source_page": 4
+    },
+    "tpa_name": {
+      "status": "found",
+      "value": "Claims servicing handled directly by Care Health Insurance Ltd / In-house",
+      "source_page": 4
+    },
+    "is_gmc_policy": {
+      "status": "found",
+      "value": "Yes (Policy Certificate - Group Care 360\u00b0, Cover type Main Floater)",
+      "source_page": 1
+    }
+  },
+  "previous_policy": {
+    "inception_date": {
+      "status": "found",
+      "value": "17-Mar-2022 (00:00 hrs)",
+      "source_page": 1
+    },
+    "renewal_date": {
+      "status": "found",
+      "value": "16-Mar-2023 (Midnight)",
+      "source_page": 1
+    },
+    "policy_tenure": {
+      "status": "found",
+      "value": "1 year",
+      "source_page": 1
+    },
+    "inception_premium": {
+      "status": "found",
+      "value": "Rs. 544,804 (Total Premium / Annual Premium)",
+      "source_page": 1
+    }
+  },
+  "policy_structure": {
+    "family_structure": {
+      "status": "found",
+      "value": "Self + Spouse + 4 Dependent children",
+      "source_page": 2
+    },
+    "sum_insured_tiers": [
+      "200000"
+    ]
+  },
+  "demographics": {
+    "total_employees": {
+      "status": "found",
+      "value": "86 (Primary Insured Members)",
+      "source_page": 1
+    },
+    "total_spouses": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "total_children": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "total_parents": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "total_lives_covered": {
+      "status": "found",
+      "value": "152 (Primary: 86, Dependents: 66)",
+      "source_page": 1
+    }
+  },
+  "room_rent_hospitalization": {
+    "room_rent_percentage": {
+      "status": "found",
+      "value": "No Limit",
+      "source_page": 2
+    },
+    "room_rent_max_limit": {
+      "status": "found",
+      "value": "No Limit",
+      "source_page": 2
+    },
+    "icu_percentage": {
+      "status": "found",
+      "value": "No Limit",
+      "source_page": 2
+    },
+    "icu_max_limit": {
+      "status": "found",
+      "value": "No Limit",
+      "source_page": 2
+    },
+    "pre_hospitalization_days": {
+      "status": "found",
+      "value": "30 days",
+      "source_page": 2
+    },
+    "post_hospitalization_days": {
+      "status": "found",
+      "value": "60 days",
+      "source_page": 2
+    }
+  },
+  "maternity": {
+    "nine_month_waiting_period": {
+      "status": "found",
+      "value": "Waived for all Insured Members",
+      "source_page": 2
+    },
+    "baby_day_one_cover": {
+      "status": "found",
+      "value": "Covered from day one within family floater Sum Insured applicable to the Employee (Upto Family SI)",
+      "source_page": 2
+    },
+    "vaccination_coverage": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "normal_delivery_metro": {
+      "status": "found",
+      "value": "Rs. 75,000 (document does not distinguish metro/non-metro)",
+      "source_page": 2
+    },
+    "normal_delivery_non_metro": {
+      "status": "found",
+      "value": "Rs. 75,000 (document does not distinguish metro/non-metro)",
+      "source_page": 2
+    },
+    "c_section_metro": {
+      "status": "found",
+      "value": "Rs. 75,000 (document does not distinguish metro/non-metro)",
+      "source_page": 2
+    },
+    "c_section_non_metro": {
+      "status": "found",
+      "value": "Rs. 75,000 (document does not distinguish metro/non-metro)",
+      "source_page": 2
+    }
+  },
+  "waiting_periods": {
+    "thirty_day_waiting_period": {
+      "status": "found",
+      "value": "Waived off for existing members and new joinees",
+      "source_page": 2
+    },
+    "first_second_year_waiting_period": {
+      "status": "found",
+      "value": "Waived off for all Insured Members",
+      "source_page": 2
+    },
+    "pre_existing_disease_waiting_period": {
+      "status": "found",
+      "value": "Covered for existing members and new joinees",
+      "source_page": 2
+    }
+  },
+  "other_benefits": {
+    "day_care_expenses": {
+      "status": "found",
+      "value": "Covered (List of Day Care procedure attached as 'Annexure A under Know your policy Better')",
+      "source_page": 2
+    },
+    "opd_benefit": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "teleconsultation": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "pharmacy_discount": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "domiciliary_hospitalization": {
+      "status": "found",
+      "value": "Excluded - Domiciliary Hospitalization is specifically excluded",
+      "source_page": 3
+    },
+    "annual_health_checkup": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "modern_treatment": {
+      "status": "found",
+      "value": "Covered as per terms and conditions upto 50% of the Sum Insured",
+      "source_page": 2
+    },
+    "bariatric_treatment": {
+      "status": "found",
+      "value": "Covered as per terms and conditions upto 50% of the Sum Insured",
+      "source_page": 2
+    },
+    "psychiatric_treatment": {
+      "status": "found",
+      "value": "Covered as per terms and conditions upto 50% of the Sum Insured",
+      "source_page": 2
+    },
+    "ayush_treatment": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "lgbtq_coverage": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "live_in_partner_coverage": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "organ_donor_expenses": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    }
+  },
+  "infertility_ambulance": {
+    "infertility_treatment": {
+      "status": "found",
+      "value": "Excluded - Infertility & related ailments including male sterility, treatment on trial/experimental basis are outside the scope of this policy",
+      "source_page": 4
+    },
+    "surrogacy": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "ambulance_charges": {
+      "status": "found",
+      "value": "Payable up to a maximum amount of Rs. 1,000/- per claim",
+      "source_page": 2
+    },
+    "air_ambulance_charges": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    }
+  },
+  "buffer_waiver": {
+    "corporate_buffer_limit": {
+      "status": "found",
+      "value": "Rs. 5 LAKH for all the Insured members during the period of insurance (available after exhausting family floater SI, up to family floater SI per Insured Family for specified Critical Illnesses)",
+      "source_page": 2
+    },
+    "disease_wise_capping": {
+      "status": "found",
+      "value": "Modern/Psychiatric/Bariatric capped at 50% of SI; Normal/LSCS Maternity capped at Rs. 75,000; Ambulance capped at Rs. 1,000; PPE kits capped at Rs. 1200 / Rs. 2000 per day",
+      "source_page": 2
+    },
+    "waiver_conditions": {
+      "status": "found",
+      "value": "30 Days Wait Period waived off for existing members and new joinees; First & Second year exclusion waived for all Insured Members; Pre-existing diseases covered for existing members and new joinees; 9 month maternity waiting period waived for all Insured Members",
+      "source_page": 2
+    }
+  },
+  "additional_notable_information": [],
+  "extraction_summary": {
+    "fields_found": 34,
+    "fields_not_found": 14,
+    "total_fields_checked": 48
+  }
+}

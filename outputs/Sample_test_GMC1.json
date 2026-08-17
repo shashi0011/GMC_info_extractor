@@ -1,0 +1,275 @@
+{
+  "source_file": "GMC-POLICY-WORDINGS-UNITED.pdf",
+  "insurer": {
+    "insurer_name": {
+      "status": "found",
+      "value": "UNITED INDIA INSURANCE COMPANY LIMITED",
+      "source_page": 1
+    },
+    "tpa_name": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "is_gmc_policy": {
+      "status": "found",
+      "value": "Yes, CAN MEDICLAIM (Group Health Insurance Scheme)",
+      "source_page": 1
+    }
+  },
+  "previous_policy": {
+    "inception_date": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "renewal_date": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "policy_tenure": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "inception_premium": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    }
+  },
+  "policy_structure": {
+    "family_structure": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "sum_insured_tiers": []
+  },
+  "demographics": {
+    "total_employees": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "total_spouses": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "total_children": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "total_parents": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "total_lives_covered": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    }
+  },
+  "room_rent_hospitalization": {
+    "room_rent_percentage": {
+      "status": "found",
+      "value": "No separate cap (Special Conditions clause 1.2 overrides standard 1% of Sum Insured per day)",
+      "source_page": 12
+    },
+    "room_rent_max_limit": {
+      "status": "found",
+      "value": "No separate cap",
+      "source_page": 12
+    },
+    "icu_percentage": {
+      "status": "found",
+      "value": "No separate cap (Special Conditions clause 1.2 overrides standard 2% of Sum Insured per day)",
+      "source_page": 12
+    },
+    "icu_max_limit": {
+      "status": "found",
+      "value": "No separate cap",
+      "source_page": 12
+    },
+    "pre_hospitalization_days": {
+      "status": "found",
+      "value": "30 days (expenses payable without cap per Special Conditions clause 1.3)",
+      "source_page": 5
+    },
+    "post_hospitalization_days": {
+      "status": "found",
+      "value": "60 days (expenses payable without cap per Special Conditions clause 1.3)",
+      "source_page": 5
+    }
+  },
+  "maternity": {
+    "nine_month_waiting_period": {
+      "status": "found",
+      "value": "Applied (9 months waiting period; relaxed only in case of delivery, miscarriage or abortion induced by accident or other medical emergency)",
+      "source_page": 11
+    },
+    "baby_day_one_cover": {
+      "status": "found",
+      "value": "Covered up to a maximum period of 90 days from date of birth, subject to combined maternity and baby care limit of 5% of sum insured",
+      "source_page": 13
+    },
+    "vaccination_coverage": {
+      "status": "found",
+      "value": "Excluded (unless post animal bite)",
+      "source_page": 7
+    },
+    "normal_delivery_metro": {
+      "status": "found",
+      "value": "5% of Sum Insured (document does not distinguish metro/non-metro or normal/C-section)",
+      "source_page": 12
+    },
+    "normal_delivery_non_metro": {
+      "status": "found",
+      "value": "5% of Sum Insured (document does not distinguish metro/non-metro or normal/C-section)",
+      "source_page": 12
+    },
+    "c_section_metro": {
+      "status": "found",
+      "value": "5% of Sum Insured (document does not distinguish metro/non-metro or normal/C-section)",
+      "source_page": 12
+    },
+    "c_section_non_metro": {
+      "status": "found",
+      "value": "5% of Sum Insured (document does not distinguish metro/non-metro or normal/C-section)",
+      "source_page": 12
+    }
+  },
+  "waiting_periods": {
+    "thirty_day_waiting_period": {
+      "status": "found",
+      "value": "30 days (does not apply if covered continuously for preceding 12 months; Special Conditions note states 2-year waiting period read as 1 year)",
+      "source_page": 7
+    },
+    "first_second_year_waiting_period": {
+      "status": "found",
+      "value": "Not applicable (Special Conditions clause 4.3 overrides standard 24-month specific disease waiting period)",
+      "source_page": 12
+    },
+    "pre_existing_disease_waiting_period": {
+      "status": "found",
+      "value": "36 months (Special Conditions clause 2.30 & 4.1 override standard 48 months)",
+      "source_page": 12
+    }
+  },
+  "other_benefits": {
+    "day_care_expenses": {
+      "status": "found",
+      "value": "Covered for 35 specific day care procedures undertaken under general or local anaesthesia in less than 24 hours",
+      "source_page": 6
+    },
+    "opd_benefit": {
+      "status": "found",
+      "value": "Excluded (Procedures/treatments usually done in out patient department are not payable)",
+      "source_page": 6
+    },
+    "teleconsultation": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "pharmacy_discount": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "domiciliary_hospitalization": {
+      "status": "found",
+      "value": "Excluded (Special Conditions clause 2.11 states there is no Domiciliary Hospitalization cover available under this policy)",
+      "source_page": 12
+    },
+    "annual_health_checkup": {
+      "status": "found",
+      "value": "Reimbursement of cost of medical check up once at end of every 3 underwriting years provided no claims reported, up to 1% of average sum insured during block of 4 claim free underwriting years",
+      "source_page": 13
+    },
+    "modern_treatment": {
+      "status": "found",
+      "value": "Excluded (Unproven or experimental treatment excluded per Clause 4.18 / 4.14)",
+      "source_page": 8
+    },
+    "bariatric_treatment": {
+      "status": "found",
+      "value": "Excluded (Obesity treatment and its complications including morbid obesity excluded under Clause 4.9)",
+      "source_page": 7
+    },
+    "psychiatric_treatment": {
+      "status": "found",
+      "value": "Excluded (Treatment relating to all psychiatric and psychosomatic disorders excluded under Clause 4.9)",
+      "source_page": 7
+    },
+    "ayush_treatment": {
+      "status": "found",
+      "value": "Ayurvedic Treatment covered only when undergone in Government Hospital or Institute recognised by Government and/or accredited by QCI/NABH; other alternative treatments excluded",
+      "source_page": 7
+    },
+    "lgbtq_coverage": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "live_in_partner_coverage": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "organ_donor_expenses": {
+      "status": "found",
+      "value": "Covered (Hospitalisation expenses excluding cost of organ incurred on donor in respect of organ transplant to the insured under Clause 1.2 E)",
+      "source_page": 1
+    }
+  },
+  "infertility_ambulance": {
+    "infertility_treatment": {
+      "status": "found",
+      "value": "Excluded (Clause 4.9 specifically excludes treatment relating to infertility and sterility)",
+      "source_page": 7
+    },
+    "surrogacy": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "ambulance_charges": {
+      "status": "found",
+      "value": "Maximum of Rs. 1,000 per policy period (part of total sum insured)",
+      "source_page": 13
+    },
+    "air_ambulance_charges": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    }
+  },
+  "buffer_waiver": {
+    "corporate_buffer_limit": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "disease_wise_capping": {
+      "status": "found",
+      "value": "No capping / restrictions not applicable (Special Conditions clause 1.2.1 overrides standard restrictions on cataract, hernia, hysterectomy, and major surgeries)",
+      "source_page": 12
+    },
+    "waiver_conditions": {
+      "status": "found",
+      "value": "Clause 4.3 (24-month specific disease waiting period) waived/not applicable for this policy; 30-day initial waiting period waived if covered for continuous preceding 12 months; 9-month maternity waiting period may be relaxed for delivery/miscarriage/abortion induced by accident or emergency",
+      "source_page": 12
+    }
+  },
+  "additional_notable_information": [],
+  "extraction_summary": {
+    "fields_found": 31,
+    "fields_not_found": 17,
+    "total_fields_checked": 48
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "source_file": "olj4KTUo9B1546-1692687606_925469 - 00 GMC Renewal Policy 00.pdf",
+  "insurer": {
+    "insurer_name": {
+      "status": "found",
+      "value": "Niva Bupa Health Insurance Company Limited",
+      "source_page": 1
+    },
+    "tpa_name": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "is_gmc_policy": {
+      "status": "found",
+      "value": "Yes",
+      "source_page": 3
+    }
+  },
+  "previous_policy": {
+    "inception_date": {
+      "status": "found",
+      "value": "01-August-2023",
+      "source_page": 3
+    },
+    "renewal_date": {
+      "status": "found",
+      "value": "31-July-2024",
+      "source_page": 3
+    },
+    "policy_tenure": {
+      "status": "found",
+      "value": "1 Year (01-August-2023 to 31-July-2024)",
+      "source_page": 3
+    },
+    "inception_premium": {
+      "status": "found",
+      "value": "98,476",
+      "source_page": 4
+    }
+  },
+  "policy_structure": {
+    "family_structure": {
+      "status": "found",
+      "value": "Employee, Spouse and Kids",
+      "source_page": 3
+    },
+    "sum_insured_tiers": [
+      "500000"
+    ]
+  },
+  "demographics": {
+    "total_employees": {
+      "status": "found",
+      "value": "9",
+      "source_page": 3
+    },
+    "total_spouses": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "total_children": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "total_parents": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "total_lives_covered": {
+      "status": "found",
+      "value": "20",
+      "source_page": 3
+    }
+  },
+  "room_rent_hospitalization": {
+    "room_rent_percentage": {
+      "status": "found",
+      "value": "1%",
+      "source_page": 3
+    },
+    "room_rent_max_limit": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "icu_percentage": {
+      "status": "found",
+      "value": "2%",
+      "source_page": 3
+    },
+    "icu_max_limit": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "pre_hospitalization_days": {
+      "status": "found",
+      "value": "30 days",
+      "source_page": 3
+    },
+    "post_hospitalization_days": {
+      "status": "found",
+      "value": "60 days",
+      "source_page": 3
+    }
+  },
+  "maternity": {
+    "nine_month_waiting_period": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "baby_day_one_cover": {
+      "status": "found",
+      "value": "New born baby would be covered from the date of delivery provided we receive the endorsement within 90 days of delivery",
+      "source_page": 3
+    },
+    "vaccination_coverage": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "normal_delivery_metro": {
+      "status": "found",
+      "value": "Rs. 25,000 (not differentiated by metro/non-metro in this document)",
+      "source_page": 3
+    },
+    "normal_delivery_non_metro": {
+      "status": "found",
+      "value": "Rs. 25,000 (not differentiated by metro/non-metro in this document)",
+      "source_page": 3
+    },
+    "c_section_metro": {
+      "status": "found",
+      "value": "Rs. 35,000 (not differentiated by metro/non-metro in this document)",
+      "source_page": 3
+    },
+    "c_section_non_metro": {
+      "status": "found",
+      "value": "Rs. 35,000 (not differentiated by metro/non-metro in this document)",
+      "source_page": 3
+    }
+  },
+  "waiting_periods": {
+    "thirty_day_waiting_period": {
+      "status": "found",
+      "value": "Waived Off",
+      "source_page": 3
+    },
+    "first_second_year_waiting_period": {
+      "status": "found",
+      "value": "Waived Off",
+      "source_page": 3
+    },
+    "pre_existing_disease_waiting_period": {
+      "status": "found",
+      "value": "Waived Off",
+      "source_page": 3
+    }
+  },
+  "other_benefits": {
+    "day_care_expenses": {
+      "status": "found",
+      "value": "Covered upto Sum Insured",
+      "source_page": 3
+    },
+    "opd_benefit": {
+      "status": "found",
+      "value": "Not Covered",
+      "source_page": 3
+    },
+    "teleconsultation": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "pharmacy_discount": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "domiciliary_hospitalization": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "annual_health_checkup": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "modern_treatment": {
+      "status": "found",
+      "value": "50% co-pay For cyberknife treatment/Robotic Surgery/Bio-absorbable Stent/FAMETO Laser Surgery/Toric lens/KT Laser Prostate; Cochlear Implant Treatment restricted to 50% of Sum Insured",
+      "source_page": 3
+    },
+    "bariatric_treatment": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "psychiatric_treatment": {
+      "status": "found",
+      "value": "Psychiatric Ailments / Mental illness covered",
+      "source_page": 3
+    },
+    "ayush_treatment": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "lgbtq_coverage": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "live_in_partner_coverage": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "organ_donor_expenses": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    }
+  },
+  "infertility_ambulance": {
+    "infertility_treatment": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "surrogacy": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    },
+    "ambulance_charges": {
+      "status": "found",
+      "value": "INR 1000 per hospitalization",
+      "source_page": 3
+    },
+    "air_ambulance_charges": {
+      "status": "not_found",
+      "value": null,
+      "source_page": null
+    }
+  },
+  "buffer_waiver": {
+    "corporate_buffer_limit": {
+      "status": "found",
+      "value": "Not Covered",
+      "source_page": 3
+    },
+    "disease_wise_capping": {
+      "status": "found",
+      "value": "Haemorrhoidectomy including Cost of stapler- 40000, Haemorrhoidectomy and Fissurectomy in a single sitting-35000, Cholecystectomy- 35000, Hernioplasty/Herniorraphy- Unilateral including cost of mesh and tacker- 45000, Hernioplasty/Herniorraphy- Bilateral including Cost of mesh and tacker-50000, URS (therapeutic) Including cost of laser treatment-35000, PCNL- Unilateral-50000, PCNL- Bilateral-60000, Hydrocele-25000, Appendicectomy-45000, Cataract per eye including Cost of Lens-25000, Hysterectomy (Abdominal/Vaginal)-55000, Total Knee Replacement(Unilateral) including cost of implants-100000, Total Knee Replacement (Bilateral) including cost of implants-150000, Hip Replacement (Unilateral) including cost of implants-100000, Hip Replacement (Bilateral) including cost of implants-150000",
+      "source_page": 3
+    },
+    "waiver_conditions": {
+      "status": "found",
+      "value": "Pre-Existing Disease (PED) Waived Off, 2 yr exclusions (Disease Specific Exclusions) Waived Off, Initial Waiting Period Waived Off",
+      "source_page": 3
+    }
+  },
+  "additional_notable_information": [],
+  "extraction_summary": {
+    "fields_found": 28,
+    "fields_not_found": 20,
+    "total_fields_checked": 48
+  }
+}
