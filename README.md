@@ -128,7 +128,7 @@ GMC_Extractor_new-master/
 1. Clone this repository and move into the project folder.
 
 ```bash
-git clone <this-repository-url>
+git clone https://github.com/shashi0011/GMC_info_extractor
 cd GMC_Extractor_new-master
 ```
 
